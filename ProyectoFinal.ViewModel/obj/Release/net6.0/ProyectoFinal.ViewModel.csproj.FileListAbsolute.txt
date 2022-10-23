@@ -1,0 +1,12 @@
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\bin\Release\net6.0\ProyectoFinal.ViewModel.deps.json
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\bin\Release\net6.0\ProyectoFinal.ViewModel.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\bin\Release\net6.0\ProyectoFinal.ViewModel.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.AssemblyInfo.cs
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\refint\ProyectoFinal.ViewModel.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ProyectoFinal.ViewModel.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.ViewModel\obj\Release\net6.0\ref\ProyectoFinal.ViewModel.dll

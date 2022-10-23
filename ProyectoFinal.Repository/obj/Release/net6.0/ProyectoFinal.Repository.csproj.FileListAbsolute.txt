@@ -1,0 +1,15 @@
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\bin\Release\net6.0\ProyectoFinal.Repository.deps.json
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\bin\Release\net6.0\ProyectoFinal.Repository.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\bin\Release\net6.0\ProyectoFinal.Repository.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\bin\Release\net6.0\ProyectoFinal.Model.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\bin\Release\net6.0\ProyectoFinal.Model.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.AssemblyInfo.cs
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.csproj.CopyComplete
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\refint\ProyectoFinal.Repository.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ProyectoFinal.Repository.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Repository\obj\Release\net6.0\ref\ProyectoFinal.Repository.dll

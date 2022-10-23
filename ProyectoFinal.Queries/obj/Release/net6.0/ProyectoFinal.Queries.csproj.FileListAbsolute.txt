@@ -1,0 +1,15 @@
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\bin\Release\net6.0\ProyectoFinal.Queries.deps.json
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\bin\Release\net6.0\ProyectoFinal.Queries.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\bin\Release\net6.0\ProyectoFinal.Queries.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\bin\Release\net6.0\ProyectoFinal.ViewModel.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\bin\Release\net6.0\ProyectoFinal.ViewModel.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.AssemblyInfo.cs
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.csproj.CopyComplete
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\refint\ProyectoFinal.Queries.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ProyectoFinal.Queries.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Queries\obj\Release\net6.0\ref\ProyectoFinal.Queries.dll

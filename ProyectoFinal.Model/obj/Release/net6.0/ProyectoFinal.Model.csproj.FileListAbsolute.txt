@@ -1,0 +1,12 @@
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\bin\Release\net6.0\ProyectoFinal.Model.deps.json
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\bin\Release\net6.0\ProyectoFinal.Model.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\bin\Release\net6.0\ProyectoFinal.Model.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.csproj.AssemblyReference.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.AssemblyInfoInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.AssemblyInfo.cs
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.csproj.CoreCompileInputs.cache
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\refint\ProyectoFinal.Model.dll
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ProyectoFinal.Model.pdb
+E:\CICLO VIII\Importante\ProyectoFinal\ProyectoFinal\ProyectoFinal.Model\obj\Release\net6.0\ref\ProyectoFinal.Model.dll
